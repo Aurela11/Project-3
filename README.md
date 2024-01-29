@@ -4,13 +4,17 @@ E-Commerce Managment System (Backend) -Simple reservation and confimation system
 
 -Clone the project git clone 
    https://github.com/Aurela11/Project-3.git
+
 -Open terminal and navigate to the project 
    cd Project-3
+
 -Install packages 
    npm install (npm i)
+
 -Migrate database 
  npx prisma migrate dev"initial"
  npx prisma deploy
+ 
 -Start the project 
 npm run start
 ----------------------------------------------------------------
